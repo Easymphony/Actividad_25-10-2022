@@ -1,2 +1,4 @@
 Este es un pokemon de fuego
 Es el numero 006 en la liga Nacional
+
+Es débil al tipo agua
